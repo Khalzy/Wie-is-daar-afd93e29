@@ -2,7 +2,7 @@
 <?php 
 
 
-        $groet = readline("Hi, Your Name? \n ");
+        $groet = readline("Hi, Gebruiker! \n ");
         $antwoord = readline("De gebruiker zegt:".$groet);
 
         echo($groet);
